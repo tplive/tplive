@@ -26,3 +26,5 @@ Oh, and I want to start live streaming and talking about Git, so if you have ide
 
 
 [![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tplive)](https://github.com/anuraghazra/github-readme-stats)
+
+[![@tplive's Holopin board](https://holopin.me/tplive)](https://holopin.io/@tplive)

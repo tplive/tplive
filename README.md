@@ -12,7 +12,7 @@ Developer at heart, secretly educating (read: harassing) colleagues on the virtu
 
 📫 You can reach me here on Github, obviously, and (in time) through my home page and also here:
 - [@angounis on Keybase](https://keybase.io/angounis)
-- [@brpbztcrp on Bluesky](@brpbztcrp.bsky.social)
+- [@brpbztcrp on Bluesky](https://bsky.app/profile/brpbztcrp.bsky.social)
 
 [![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tplive)](https://github.com/anuraghazra/github-readme-stats)
 
